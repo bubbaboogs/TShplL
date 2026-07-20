@@ -1,0 +1,18 @@
+{
+    "id": 145237532,
+    "name": "Shplorkupen Egg",
+    "author": "FinnIsCrazy",
+    "creators": ["FinnIsCrazy"],
+    "verifier": "FinnIsCrazy",
+    "verification": "There is none",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+   {
+            "user": "Kaese34",
+            "link": "mobile",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
