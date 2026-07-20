@@ -1,0 +1,42 @@
+{
+    "id": 129141788,
+    "name": "Shardish",
+    "author": "Kaese34",
+    "creators": ["Kaese34"],
+    "verifier": "Kaese34",
+    "verification": "There is no proof",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+          {
+            "user": "FinnIsCrazy",
+            "link": "no link",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "adp2011",
+            "link": "no link",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "combokid",
+            "link": "no link",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bubbaboogs",
+            "link": "no link",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "peanutbutterAJ",
+            "link": "no link",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 145237532,
+    "name": "Shplorkematic",
+    "author": "Kaese34",
+    "creators": ["Kaese34"],
+    "verifier": "Kaese34",
+    "verification": "There is none",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+   {
+            "user": "bubbaboogs",
+            "link": "no link",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
