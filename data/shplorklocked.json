@@ -43,6 +43,12 @@
             "link": "no link",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Zettle",
+            "link": "no link",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
