@@ -19,6 +19,12 @@
             "link": "no link",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "sharkboy4809",
+            "link": "no link",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
